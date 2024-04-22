@@ -5,20 +5,17 @@ Due to travel restrictions during the COVID pandemic, many activities are left u
 
 # How Does It Work
 ### Functionalities
-- Registration 
--	Rewards catalogue
--	Randomizer
+- 3 random activites are displayed upon Registration 
+-	Randomizer can be refreshed once
 -	Activity completion submission 
 -	Feedback 
--	Event/Consumer Surveys
--	eWallet 
-
-### 
-- Customized profiles are created based on a set of questions that the user must answer during the registration process. 
+-	eWallet
+-	Rewards catalogue
 
 ### Scoring
 - 1 transaction on eWallet = 1 point
-- completion of activity = set no. of points
+- Points are set based on difficulty level of activity
+- Points are awarded upon photo submission of completed activity 
 
 # Services used
 1. AWS CodePipeline
