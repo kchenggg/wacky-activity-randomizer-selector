@@ -25,3 +25,8 @@ Due to travel restrictions during the COVID pandemic, many activities are left u
 # Built With 
 - Java <br />
 - SQL
+
+# Applications Used
+- Eclipse
+- Git
+- SSMS
