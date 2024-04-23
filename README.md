@@ -30,3 +30,4 @@ Due to travel restrictions during the COVID pandemic, many activities are left u
 - Eclipse
 - Git
 - SSMS
+- AWS
