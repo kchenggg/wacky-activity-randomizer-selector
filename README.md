@@ -17,11 +17,11 @@ Due to travel restrictions during the COVID pandemic, many activities are left u
 - Points are set based on difficulty level of activity
 - Points are awarded upon photo submission of completed activity 
 
-# Services used
+# Cloud Services Used
 1. AWS CodePipeline
 2. AWS CloudWatch
 3. AWS SNS
 
-# Built with 
+# Built With 
 - Java <br />
 - SQL
