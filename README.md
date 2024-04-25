@@ -26,6 +26,7 @@ Due to travel restrictions during the COVID pandemic, many activities are left u
 - Java <br />
 - SQL
 
+Last updated: June 2022
 # Applications Used
 - Eclipse
 - Git
