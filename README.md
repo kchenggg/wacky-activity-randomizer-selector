@@ -32,5 +32,7 @@ Due to travel restrictions during the COVID pandemic, many activities are left u
 - SSMS
 - AWS
 
+<br />
+<br />
 Last updated: June 2022
 
